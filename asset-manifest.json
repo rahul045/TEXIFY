@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/TEXIFY/static/css/main.073c9b0a.css",
+    "main.js": "/TEXIFY/static/js/main.caaaba04.js",
+    "static/js/787.28cb0dcd.chunk.js": "/TEXIFY/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/TEXIFY/index.html",
+    "main.073c9b0a.css.map": "/TEXIFY/static/css/main.073c9b0a.css.map",
+    "main.caaaba04.js.map": "/TEXIFY/static/js/main.caaaba04.js.map",
+    "787.28cb0dcd.chunk.js.map": "/TEXIFY/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.caaaba04.js"
+  ]
+}
